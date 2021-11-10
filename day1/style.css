@@ -1,0 +1,33 @@
+html {
+    font-family: 'Mochiy Pop P One', sans-serif;
+}
+
+body {
+    background-image: url(/assets/images/paper_bg.jpg);
+}
+
+.first-pic{
+    display: flex;
+}
+
+h1 {
+    color: brown;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sent{
+    display: flex;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
